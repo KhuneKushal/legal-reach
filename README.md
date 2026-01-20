@@ -37,5 +37,4 @@ A modern platform connecting clients with qualified legal professionals. Feature
 - React 19
 - Vite
 - React Router DOM
-- TailwindCSS
-- Lucide React Icons
+
